@@ -1,3 +1,8 @@
+Google Sheet API
+https://docs.google.com/spreadsheets/d/19q2hnui40Jky_W5QN-PM2OmNlA3mOv6aGQrQn2OmDVk/edit?gid=0#gid=0
+
+‼️ Drive linkinden aktarım sağlanamadı sadece google üzerinden bulunan resimlerde 'Resim adresini kopyala' dediğimde resim urlsi öçalışıyor.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
